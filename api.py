@@ -6,3 +6,8 @@
      'PUT',
      'DELETE'
      """
+rest api definition
+
+RE-pepresenation 
+s-state
+t- transfer
